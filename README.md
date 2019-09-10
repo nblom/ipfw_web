@@ -11,3 +11,9 @@ Folder to be served with apache for allowing easy access for users.
 Credentials are added in index.php as plain text, jay for security.
 
 This is not meant to protect anything sensitive.
+
+![Signin](https://raw.githubusercontent.com/nblom/ipfw_web/master/readme_signin.png "Signin")
+
+![Access pending](https://raw.githubusercontent.com/nblom/ipfw_web/master/readme_pending.png "Access pending")
+
+![Access granted](https://raw.githubusercontent.com/nblom/ipfw_web/master/readme_granted.png "Access granted")
